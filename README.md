@@ -42,7 +42,7 @@ $ node index.js
 
 ```pgsql
 $ pgcli -U postgres perntodo -h db
-$ Password: psql
+Password: psql
 ```
 
 創建資料庫
