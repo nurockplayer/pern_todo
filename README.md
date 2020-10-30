@@ -5,7 +5,13 @@
 
 ---
 
-啟動 docker
+如果沒有安裝過 docker 的話可以用 homebrew 進行安裝
+```shell
+$ brew cask install docker
+```
+<br>
+
+在專案資料夾中啟動 docker
 
 ```shell
 $ docker-compose up -d
