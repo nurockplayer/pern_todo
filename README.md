@@ -7,7 +7,7 @@
 
 如果沒有安裝過 docker 的話可以用 homebrew 進行安裝
 ```shell
-$ brew cask install docker
+$ brew cask install docker-desktop
 ```
 <br>
 
