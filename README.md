@@ -7,7 +7,8 @@
 
 如果沒有安裝過 docker 的話可以用 homebrew 進行安裝
 ```shell
-$ brew cask install docker-desktop
+$ brew cask install docker
+$ brew install docker-compose
 ```
 <br>
 
